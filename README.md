@@ -34,4 +34,4 @@ The main points when checking the test:
 Will be a plus:
 1.	Using design patterns
  
-![image](https://github.com/rden82/web-worker/assets/28786149/6bdfedbc-0236-43ae-9524-518b64fd8825)
+<img width="372" alt="image" src="https://github.com/rden82/web-worker/assets/28786149/464a20e4-a522-45cd-8992-af436b2122db">
